@@ -35,7 +35,7 @@ const Navbar = () => {
                         
                             {/* Products */}
                             <NavItem>
-                                <NavLinks to='/'>Products</NavLinks>
+                                <NavLinks to='/products'>Products</NavLinks>
                             </NavItem>
                         </NavMenu>
                     </NavbarContainer>
