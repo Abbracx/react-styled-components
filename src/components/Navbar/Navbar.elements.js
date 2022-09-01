@@ -21,6 +21,7 @@ export const NavbarContainer = styled(Container)`
     justify-content: space-between;
     height: 80px;
 
+   /* Get Other values from Container */
     ${Container}
 `
 
